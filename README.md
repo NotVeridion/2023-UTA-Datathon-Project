@@ -4,7 +4,7 @@ This project was created in the 24-hour timespan of the 2023 UTA Datathon compet
 
 ## FILES INCLUDED: 
   - Python source file for running the interactive webUI for the user
-  ### (Make sure to have this file alongside the python code because it reads from the dataset directly)
+  ##### (Make sure to have this file alongside the python code because it reads from the dataset directly)
   - .xlsx dataset of "Health Related" tweets given by the school for the Data Visualization Challenge 
   
 Note: This project landed my team second place for the Data Visualization Challenge.
